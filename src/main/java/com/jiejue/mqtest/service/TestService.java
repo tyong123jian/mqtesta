@@ -6,5 +6,6 @@ package com.jiejue.mqtest.service;
 public class TestService {
     public void firstAlterGit(){
         System.out.println("test first");
+        System.out.println("off test first");
     }
 }
