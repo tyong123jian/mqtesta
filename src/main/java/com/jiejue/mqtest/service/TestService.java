@@ -7,5 +7,6 @@ public class TestService {
     public void firstAlterGit(){
         System.out.println("test first");
         System.out.println("on test first");
+        System.out.println("on test second");
     }
 }
